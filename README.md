@@ -2,17 +2,21 @@
 
 Bài tập về nhà tuần 07: **Ứng dụng UTH SmartTasks**, xây dựng màn hình theo kiến trúc **MVVM**, và lưu trữ dữ liệu **offline** 
 
-## Demo (UI theo đề)
+<h2>Demo (UI theo đề)</h2>
 
-- **List**: hiển thị danh sách task 
+<div style="display: flex; gap: 20px;">
 
-  ![Task List](assets/images/1.jpg)
+  <div style="text-align: center;">
+    <p><strong>List – Danh sách task</strong></p>
+    <img src="assets/images/1.jpg" width="300" />
+  </div>
 
-- **Add New**: form thêm task (Title/Description)
+  <div style="text-align: center;">
+    <p><strong>Add New – Thêm task</strong></p>
+    <img src="assets/images/2.jpg" width="300" />
+  </div>
 
-  ![Add New Task](assets/images/2.jpg)
-
-- **Detail**: xem chi tiết + xoá task
+</div>
 
 ## Tính năng
 
