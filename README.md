@@ -4,19 +4,19 @@ Bài tập về nhà tuần 07: **Ứng dụng UTH SmartTasks**, xây dựng mà
 
 <h2>Demo (UI theo đề)</h2>
 
-<div style="display: flex; gap: 20px;">
+<table>
+  <tr>
+    <td align="center">
+      <strong>List – Danh sách task</strong><br/>
+      <img src="assets/images/1.jpg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>Add New – Thêm task</strong><br/>
+      <img src="assets/images/2.jpg" width="300"/>
+    </td>
+  </tr>
+</table>
 
-  <div style="text-align: center;">
-    <p><strong>List – Danh sách task</strong></p>
-    <img src="assets/images/1.jpg" width="300" />
-  </div>
-
-  <div style="text-align: center;">
-    <p><strong>Add New – Thêm task</strong></p>
-    <img src="assets/images/2.jpg" width="300" />
-  </div>
-
-</div>
 
 ## Tính năng
 
